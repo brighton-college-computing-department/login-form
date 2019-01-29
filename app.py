@@ -43,10 +43,6 @@ def log_the_user_in(username):
 
 
 @app.route("/")
-def main_page():
-    return "This is the main page, it does NTHING"
-
-
 @app.route('/login', methods=['POST', 'GET'])
 def login():
     error = None
