@@ -1,16 +1,35 @@
 <html>
     <head>
-        <link rel="stylesheet" href="../static/login.css">
+        <link rel="stylesheet" href="../static/form-style.css">
+
+        <script>
+        function validateForm() {
+        var x = document.forms["login-form"]["username"].value;
+        if (x==null || x=="") {
+            alert("Name must be filled out");
+            return false;
+        }
+        var y = document.forms["login-form"]["password"].value;
+        if (y==null || y=="") {
+            alert("Password name must be filled out");
+            return false;
+        }
+        }
+
+        </script>
+
     </head>
     <body>
-            <form action="./login" target="_self" method="POST">
-                <h2>Login:</h2>
-                {% if error %}
-                  <p>{{ error }}</p>
-                {% endif %}
-                <input type ="text" name ="username" placeholder="Username"><br>
-                <input type="password" name="password" placeholder="Password"><br>
-                <input type="submit" value="Submit"><br>
-            </form>
+        <div>
+                <form name="login-form"  action="/login" onsubmit="return validateForm()" target="_self" method="POST"  >
+                    <h2>Login:</h2>
+                    {% if error %}
+                      <p>{{ error }}</p>
+                    {% endif %}
+                    <input type ="text" name ="username" placeholder="Username"><br>
+                    <input type="password" name="password" placeholder="Password"><br>
+                    <input type="submit" value="Submit"><br>
+                </form>
+        </div>
     </body>
 </html>
