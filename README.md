@@ -2,10 +2,10 @@
 A login form that uses flask and sqlite
 ## Set Up
 You will need the following things install on your computer:
-1. Python 3
-2. Flask
-3. PyCharm
-4.  DB Browser for SQLite
+1. [Python 3](https://www.python.org/downloads/release/python-370/)
+2. [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+3. [DB Browser for SQLite](https://sqlitebrowser.org/)
+4. [Brackets](http://brackets.io/)
 Watch the video below that explains how to set these up.
 
 ## Instalation
