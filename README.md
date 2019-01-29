@@ -6,10 +6,10 @@ You will need the following things install on your computer:
 2. [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 3. [DB Browser for SQLite](https://sqlitebrowser.org/)
 4. [Brackets](http://brackets.io/)
-Watch the video below that explains how to set these up.
+5. [Git](https://git-scm.com/)
 
 ## Instalation
-What the video below which explains how to create a flask project in pycharm, open the repository on git and run the application
+Watch the video below which explains how to create a flask project in pycharm, open the repository on git and run the application
 
 ## Guide
 Please find a video explainer below:
