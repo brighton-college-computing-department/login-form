@@ -12,7 +12,8 @@ Watch the video below that explains how to set these up.
 What the video below which explains how to create a flask project in pycharm, open the repository on git and run the application
 
 ## Guide
-
+Please find a video explainer below:
+[![Listner to an explaination of the code here](https://img.youtube.com/vi/cvPnRmOs9io/0.jpg)](https://www.youtube.com/watch?v=cvPnRmOs9io)
 ## Next Steps
 The following next steps need to be taken with this project:
 1.  Create a registration.html page that inputs the users name, date of birth and address and then passes this to a register_user function in python that stores this in the database.  You will need to update the structure of the database using DB Browser.
