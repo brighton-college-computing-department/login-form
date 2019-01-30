@@ -1,7 +1,7 @@
 # login-form
 A login form that uses flask and sqlite
 ## Set Up
-You will need the following things install on your computer:
+You will need the following things installed on your computer:
 1. [Python 3](https://www.python.org/downloads/release/python-370/)
 2. [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 3. [DB Browser for SQLite](https://sqlitebrowser.org/)
