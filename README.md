@@ -9,11 +9,10 @@ You will need the following things install on your computer:
 5. [Git](https://git-scm.com/)
 
 ## Instalation
-Watch the video below which explains how to create a flask project in pycharm, open the repository on git and run the application
-
+Read the guide below which explains how to create a flask project in pycharm, open the repository on git and run the application
+[Setup Guide](./LoginFormSetupGuide.pdf)
 ## Guide
 Please find a video explainer below:
-
 [![Listner to an explaination of the code here](https://img.youtube.com/vi/cvPnRmOs9io/0.jpg)](https://www.youtube.com/watch?v=cvPnRmOs9io)
 ## Next Steps
 The following next steps need to be taken with this project:
