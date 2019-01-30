@@ -14,6 +14,7 @@ Read the guide below which explains how to create a flask project in pycharm, op
 [Setup Guide](./LoginFormSetupGuide.pdf)
 ## Guide
 Please find a video explainer below:
+
 [![Listner to an explaination of the code here](https://img.youtube.com/vi/cvPnRmOs9io/0.jpg)](https://www.youtube.com/watch?v=cvPnRmOs9io)
 ## Next Steps
 The following next steps need to be taken with this project:
